@@ -42,7 +42,8 @@
         <module>vcc-msvm-impl</module>
         <module>vcc-vmware-vix-impl</module>
         <module>vcc-vmware-esx-impl</module>
-        <module>vcc-libvirt-impl</module>
+	<module>vcc-vmware-ssh-impl</module>
+	<module>vcc-libvirt-impl</module>
         <module>vcc-site</module>
         <module>vcc-ant-tasks</module>
         <module>vcc-vbox-impl</module>
